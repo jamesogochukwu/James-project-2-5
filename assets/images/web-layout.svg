@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="620" viewBox="0 0 920 620" role="img" aria-labelledby="tit desc">
+<title id="tit">Responsive website layout illustration</title>
+<desc id="desc">An illustrated webpage containing a header, navigation bar, two content columns, and footer.</desc>
+<rect width="920" height="620" rx="34" fill="#d7eac8" />
+<rect x="74" y="56" width="772" height="510" rx="23" fill="#fcfdf9" stroke="#9cb49c" stroke-width="4" />
+<rect x="74" y="56" width="772" height="66" rx="23" fill="#1b3028"/>
+<rect x="74" y="97" width="772" height="25" fill="#1b3028"/>
+<circle cx="106" cy="89" r="10" fill="#b5d786"/><circle cx="137" cy="89" r="10" fill="#adcbbd"/><circle cx="168" cy="89" r="10" fill="#efc499"/>
+<text x="460" y="98" font-size="21" fill="white" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700">My Web Portfolio</text>
+<rect x="74" y="122" width="772" height="55" fill="#e5f2da"/>
+<text x="114" y="158" font-size="20" fill="#254232" font-family="Arial,sans-serif" font-weight="700">HOME</text>
+<text x="255" y="158" font-size="20" fill="#254232" font-family="Arial,sans-serif" font-weight="700">ABOUT ME</text>
+<text x="428" y="158" font-size="20" fill="#254232" font-family="Arial,sans-serif" font-weight="700">SCHOOL</text>
+<rect x="105" y="204" width="455" height="291" rx="15" fill="#f0f5ed" stroke="#d0dfcb" stroke-width="2" />
+<rect x="581" y="204" width="231" height="291" rx="15" fill="#e9f2de" stroke="#d0dfcb" stroke-width="2" />
+<text x="135" y="247" font-family="Arial,sans-serif" font-size="26" font-weight="750" fill="#1b3028">Main content</text>
+<rect x="135" y="270" width="372" height="13" rx="6" fill="#b2c9ac"/>
+<rect x="135" y="296" width="318" height="13" rx="6" fill="#b2c9ac"/>
+<rect x="135" y="322" width="342" height="13" rx="6" fill="#b2c9ac"/>
+<rect x="135" y="364" width="156" height="86" rx="10" fill="#cbe4a8"/>
+<rect x="308" y="364" width="156" height="86" rx="10" fill="#cbe4a8"/>
+<text x="607" y="247" font-family="Arial,sans-serif" font-size="24" font-weight="750" fill="#1b3028">Sidebar</text>
+<rect x="607" y="273" width="156" height="13" rx="6" fill="#b2c9ac"/>
+<rect x="607" y="300" width="131" height="13" rx="6" fill="#b2c9ac"/>
+<rect x="607" y="339" width="157" height="109" rx="12" fill="#d0e7b8"/>
+<rect x="74" y="519" width="772" height="47" rx="0" fill="#1b3028" />
+<path d="M74 545 v-3 a24 24 0 0 0 24 24h724a24 24 0 0 0 24-24v-3" fill="#1b3028"/>
+<text x="460" y="548" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" fill="#edf6e8">Footer</text>
+</svg>
